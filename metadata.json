@@ -1,0 +1,6 @@
+{
+  "name": "PricePulse",
+  "description": "AI-Based Product Price Comparison and Availability System. Track. Compare. Save. Compare prices and fares side-by-side with AI optimization recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
