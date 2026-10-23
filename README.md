@@ -18,3 +18,6 @@ View your app in AI Studio: https://ai.studio/apps/70375d07-1c8e-4514-9bd3-11f79
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+# PricePulse
+
+PricePulse – AI-powered price tracking and comparison platform that monitors product prices across e-commerce websites, analyzes trends, and helps users make smarter purchasing decisions.
